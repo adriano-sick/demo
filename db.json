@@ -1,4 +1,4 @@
-{
+/*{
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -10,5 +10,17 @@
   ],
   "profile": {
     "name": "typicode"
+  }
+}*/
+
+{
+  "Courses":
+  {
+    "id": 1,
+    "title": "firstOne",
+    "description": "First course",
+    "imageURL": "Image URL",
+    "TeacherName": "Ja1 da sirva",
+    "classLinks": "www.class1.com www.class2.com www.class3.com"
   }
 }
