@@ -8,4 +8,23 @@
     "TeacherName": "Ja1 da sirva",
     "classLinks": "www.class1.com www.class2.com www.class3.com"
   }
-}
+  
+  {
+    "id": 2,
+    "title": "SesecondOne",
+    "description": "Second course",
+    "imageURL": "Image URL",
+    "TeacherName": "Ja1 da sirva jr",
+    "classLinks": "www.class10.com www.class20.com www.class30.com"
+  }
+
+{
+    "id": 3,
+    "title": "thirdOne",
+    "description": "Third course",
+    "imageURL": "Image URL",
+    "TeacherName": "Ja1 da sirva jr filho",
+    "classLinks": "www.class100.com www.class200.com www.class300.com"
+  }
+
+
